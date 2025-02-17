@@ -1153,7 +1153,6 @@
     <icon drawable="@drawable/camera" package="com.motorola.cameraone"/>
     <icon drawable="@drawable/camera" package="com.ngcam.camera"/>
     <icon drawable="@drawable/camera" package="com.oneplus.camera"/>
-    <icon drawable="@drawable/camera" package="com.oplus.camera"/>
     <icon drawable="@drawable/camera" package="com.oppo.camera"/>
     <icon drawable="@drawable/camera" package="com.sec.android.app.camera"/>
     <icon drawable="@drawable/camera" package="com.shamim.cam"/>
@@ -1167,6 +1166,7 @@
     <icon drawable="@drawable/camera" package="com.android.lmc82"/>
     <icon drawable="@drawable/camera_assistant" package="com.samsung.android.app.cameraassistant"/>
     <icon drawable="@drawable/camera_date_folders" package="de.kromke.andreas.cameradatefolders"/>
+    <icon drawable="@drawable/camera_oplus" package="com.oplus.camera"/>
     <icon drawable="@drawable/camera_pro" package="com.smartwatchstudios.app.camera"/>
     <icon drawable="@drawable/camera_zoom_fx" package="slide.cameraZoom"/>
     <icon drawable="@drawable/camera360" package="vStudio.Android.Camera360"/>
