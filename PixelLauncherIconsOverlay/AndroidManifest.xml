@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.android.apps.nexuslauncher.icons.overlay">
+    <overlay android:targetName="PixelLauncherIconsOverlay"
+             android:targetPackage="com.google.android.apps.nexuslauncher"
+             android:priority="5"
+             android:isStatic="true"/>
+
+    <application android:hasCode="false"
+                 android:label="PixelLauncherIconsOverlay"/>
+</manifest>
